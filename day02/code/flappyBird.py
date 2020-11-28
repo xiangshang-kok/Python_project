@@ -1,5 +1,6 @@
 import pygame
 from Move import MoveImg
+from Player import Bird
 import random
 background = pygame.image.load("./day02/img/background.png")
 ground = pygame.image.load("./day02/img/ground.png")
